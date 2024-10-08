@@ -27,7 +27,7 @@
   "homepage": "https://github.com/empirejs/github-issues-importer",
   "dependencies": {
     "async": "~3.2.5",
-    "github": "~0.1.14",
+    "github": "~14.0.0",
     "optimist": "~0.6.1",
     "xlsx-rows": "~1.0.0"
   }
